@@ -42,6 +42,3 @@ Future research can include larger and more diverse samples, longitudinal studie
 - Md. Shahriar Laskher
 - Md. Saikot Hossain
 
-## License
-
-This research project is developed for academic and educational purposes.
